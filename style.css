@@ -5,7 +5,7 @@
 }
 
 .nav{
-    font-family: ;
+    height: 13vh;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -22,7 +22,8 @@
 
 .logo{
     left: 30px;
-    height: 13vh;
+    height: 25vh;
+    width: 25vh;
     width: auto;
     text-align: center;
     justify-content: center;
@@ -37,11 +38,17 @@
     font-size: 1.2rem;
 
 }
+#products{
+    background-color: #FBCEB1;
+    display: flex;
+    font-size: large;
+}
 .icon li{
     color: black;
     list-style-type: none;
     font: 1rem;
-    font-family:play;
+    font-family:cursive;
+    font-weight: bold;
     font-weight: bold;
 }
 
